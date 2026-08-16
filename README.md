@@ -23,7 +23,7 @@ The problems I find interesting are the ones underneath the integration: what ha
 
 ### Selected work
 
-**[Persian AI Language Tutor](https://github.com/Kcool2003/persian-ai-tutor)**
+**[Persian AI Language Tutor](https://github.com/Kcool2003/Persian-AI-Language-Tutor)**
 Cross-platform iOS/Android/web language tutor. React Native and FastAPI, with Claude for adaptive conversation, Whisper for speech-to-text, and Azure Neural TTS for output. JWT auth, freemium quotas, Stripe tiers, 22-lesson curriculum. Closed source, architecture and engineering decisions documented in the repo.
 
 **[Instagram Follower Relationship Analyzer]**
